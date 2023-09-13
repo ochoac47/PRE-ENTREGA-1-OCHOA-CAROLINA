@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {font-family: 'Montserrat', sans-serif;
+    text-decoration: rgb(170, 71, 71);
+    background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
+
+header{ 
+        background-color: #343a40;
+        justify-content: space-between;
+        }
+
+#menu {
+
+    display: flex;
+
+}
+
+.navegacion{
+ display: flex;
+ gap: 20px;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+.nav-item {
+    list-style: none;
+    color: white;
+}
+
+.btn{
+  border-radius: 15px;
+  text-align: center;
+  font-size: 15px;
+  justify-content: center;
+}
+
+
+.btn footer{
+  justify-content:baseline;
+}
+
+.card {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 2px 2px black;
+    text-align: center;
+    justify-content: center;
+    width: 280px;
+    height: 325px;
+    overflow: hidden;
+    text-align: center;
+    transition: all 0.25s;
+    background-color: white;
+
+
+}
+.card:hover {
+    transform: translate(-15px);
+    box-shadow: 0 12px 16px black;
+  }
+
+  .card img {
+    width: 120px;
+    height: 120px;
+    image-rendering: auto;
+}
+
+.contacto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+  }
+
+  .sedes {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .sedes p {
+    font-size: 20px;
+  }
+
+  .horario p {
+    font-size: 20px;
+  }
+  
+  .horario {
+    text-align: center;
+    font-weight: bold;
+  }
+  .horario .horario p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+  }
+
+  h3 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+footer{
+    background-color: #343a40;
+    justify-content: center;
+    text-align: center;
+}
+
