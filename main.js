@@ -189,7 +189,7 @@ class Producto {
     const p1 = new Producto(1, "Dona Caramelo", 2, "Dona en baño de Caramelo, sin glutén", "img/Caramelo.jpg", "Dona Caramelo");
     const p2 = new Producto(2, "Choco Sorpresa", 3, "Dona con topping de Chocolate Sorpresa", "img/Choco Sorpresa.jpg","Dona con topping de Chocolate Sorpresa");
     const p3 = new Producto (3, "Dulce de Leche", 5, "Dulce de Leche Clásica es la mejor","img/Dulce de Leche Clásica.jpg","Dona con topping de Chocolate Sorpresa");
-    const p4 = new Producto (4, "Pack Duo Relleno", 8, "Pack Duo relleno Sorpresa, llevate el 2x1", "img/Pack Duo Relleno.jpg","Pack Duo relleno Sorpresa, llevate el 2x1");
+    const p4 = new Producto (4, "Duo Relleno", 8, "Duo relleno Sorpresa, llevate el 2x1", "img/Duo Relleno.jpg","Pack Duo relleno Sorpresa, llevate el 2x1");
     const p5 = new Producto (5, "Choco Fiesta", 8, "Una fiesta de sabores te espera","img/Choco Fiesta.jpg","Una fiesta de sabores te espera");
     const p6 = new Producto (6, "Fiesta Azul", 2, "Con topping de caramelo Azul y lluvias a elección", "img/Fiesta Azul.jpg","Con topping de caramelo Azul y lluvias a elección");
     const p7 = new Producto (7, "Glaseada Clásica", 3, "La mas sencilla pero delicioso gustito","img/Glaseada Clásica.jpg","La mas sencilla pero delicioso gustito");
