@@ -1,0 +1,110 @@
+[
+    {
+       "id":1,
+       "nombre":"Dona Caramelo",
+       "precio":2,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Caramelo.jpg",
+       "alt":"Dona Caramelo"
+    },
+    {
+       "id":2,
+       "nombre":"Choco Sorpresa",
+       "precio":3,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":6,
+       "img":"img/Choco Sorpresa.png",
+       "alt":"Dona con topping de Chocolate Sorpresa"
+    },
+    {
+       "id":3,
+       "nombre":"Dulce de Leche",
+       "precio":5,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Dulce de Leche Clásica.jpg",
+       "alt":"Dona con topping de Chocolate Sorpresa"
+    },
+    {
+       "id":4,
+       "nombre":"Duo Relleno",
+       "precio":8,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Duo Relleno.jpg",
+       "alt":"Pack Duo relleno Sorpresa, llevate el 2x1"
+    },
+    {
+       "id":5,
+       "nombre":"Explosión Choco Fiesta",
+       "precio":8,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Explosión Choco Fiesta.jpg",
+       "alt":"Una fiesta de sabores te espera"
+    },
+    {
+       "id":6,
+       "nombre":"Fiesta Azul",
+       "precio":2,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Fiesta Azul.png",
+       "alt":"Con topping de caramelo Azul y lluvias a elección"
+    },
+    {
+       "id":7,
+       "nombre":"Glaseada Clásica",
+       "precio":3,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Glaseada Clásica.jpg",
+       "alt":"La mas sencilla pero delicioso gustito"
+    },
+    {
+       "id":8,
+       "nombre":"Lard Lad",
+       "precio":4,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Lard Lad.jpg",
+       "alt":"Dona de Vainilla cubierta con fina capa de almivar"
+    },
+    {
+       "id":9,
+       "nombre":"Maracuyá",
+       "precio":8,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Maracuyá.png",
+       "alt":"Vive la experiencia de los Simpson con esta donita"
+    },
+    {
+       "id":10,
+       "nombre":"Pie de Limón",
+       "precio":8,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Pie de Limón.jpg",
+       "alt":"El sabor de un Pie de Limón en una sola Donita"
+    },
+    {
+       "id":11,
+       "nombre":"Special Day",
+       "precio":6,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Special Day.jpg",
+       "alt":"Ideal para esa persona especial"
+    },
+    {
+       "id":12,
+       "nombre":"Vainilla Clásica",
+       "precio":8,
+       "descripcion":"Sujeto a disponibilidad en stock",
+       "cantidad":1,
+       "img":"img/Vainilla Clasica.jpg",
+       "alt":"El sabor de la vainilla en un mordisco"
+    }
+ ]
