@@ -9,32 +9,32 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
         integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.29/dist/sweetalert2.min.css">
+        <title>Tienda Virtual/Entrenos212</title>
 
     <link rel="stylesheet" href="css/styles.css">
     <title>Entrenos212</title>
 </head>
-
 <body>
     <header>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400&display=swap" rel="stylesheet">
-        <nav class="navbar-expand-xl ">
-        <nav class="navbar navbar-dark bg-dark">
-            <div class="container" id="menu">
-                <a class="navbar-brand" href="index.html">
-                    <img src="img/logoentrenos212.png" alt="Entrenos212" width="200">
-                </a>
-                <ul class="navegacion">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="pages/contacto.html">Contacto</a>
-                    </li>
-                </ul>
-                
-                <button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    <i class="fa-solid fa-cart-shopping"></i>
+            <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400&display=swap" rel="stylesheet">
+            <nav class="navbar-expand-xl">
+                <nav class="navbar navbar-dark bg-dark">
+                    <div class="container" id="menu">
+                        <div class="logo">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="img/logoentrenos212.png" alt="Entrenos212" width="200">
+                            </a>
+                        </div>
+                        <ul class="navegacion">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="index.html">Tienda Virtual</a>
+                            </li>
+                        </ul>
+                        <div class="carrito">
+                            <button type="button" class="btn btn-custom-info" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                <i class="fa-solid fa-cart-shopping"></i>
                 </button>
             </div>
         </nav>
@@ -57,12 +57,14 @@
                 <div class="text-center" id="total_pagar">
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-info" data-bs-dismiss="modal">Agregar</button>
-                    <button type="button" class="btn btn-danger" id="finalizarcompra">Finalizar</button>
+                    <button type="button" class="btn btn-custom-info" data-bs-dismiss="modal">Agregar</button>
+                    <button type="button" class="btn btn-custom-green" id="finalizarcompra">Finalizar</button>
                 </div>
             </div>
         </div>
     </div>
+
+      
 
 <footer>
     <div class="container-fluid">
@@ -73,7 +75,7 @@
 </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.29/dist/sweetalert2.all.min.js"></script>
-
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
         crossorigin="anonymous"></script>
