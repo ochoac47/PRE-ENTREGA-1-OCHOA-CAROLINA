@@ -196,8 +196,8 @@ descripcionProducto () {
                     this.guardarEnStorage();
                     this.mostrarEnDOM();
                     Swal.fire(
-                      'Deleted!',
-                      'Your file has been deleted.',
+                      'Eliminado!',
+                      'El producto fue eliminado.',
                       'success'
                     );
                   }
